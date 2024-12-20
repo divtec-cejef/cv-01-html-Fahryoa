@@ -25,3 +25,7 @@ a {
 a:hover {
     color: darkmagenta;
 }
+.icone {
+    width: 50px;
+    heigh: 50px;    
+}
