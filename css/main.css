@@ -24,6 +24,7 @@ a {
 
 a:hover {
     color: #40E0D0;
+    text-decoration: underline;
 }
 .icone {
     width: 10%;
