@@ -27,13 +27,16 @@ a:hover {
     color: #40E0D0;
     text-decoration: underline;
 }
+
 .icone {
     width: 10%;
     heigh: 10%;    
 }
+
 footer {
     color: darkblue;
 }
+
 .presentation {
     margin: 65px;
 } 
