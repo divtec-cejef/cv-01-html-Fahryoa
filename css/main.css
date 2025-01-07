@@ -7,7 +7,7 @@ body {
     font-weight: 400;
     font-size: 1.2rem;
     line-height: 1.4;
-    color: tomato;
+    color: black;
     background-color: white;
 }
 
@@ -18,12 +18,12 @@ img {
 }
 
 a {
-    color: deeppink;
+    color: green;
     text-decoration: none;
 }
 
 a:hover {
-    color: darkmagenta;
+    color: #40E0D0;
 }
 .icone {
     width: 50px;
