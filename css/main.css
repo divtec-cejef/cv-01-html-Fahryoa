@@ -43,4 +43,12 @@ h1 {
 p {
     color: #5B5859;
     text-allign: center;
+    font-size: 20em;
 } 
+
+h2 {
+    font-size: 25rem;
+}
+h2:hover {
+    text-decoration: underline;
+}
