@@ -36,6 +36,9 @@ a:hover {
 footer {
     color: darkblue;
 }
+h1 {
+    font-size: 200px;
+}
 
 p {
     color: #5B5859;
